@@ -1,31 +1,34 @@
 # Módulo de Ejercicios de JavaScript
 
-Este repositorio contiene una serie de ejercicios diseñados para afianzar conocimientos en JavaScript, en el manejo de arrays y colecciones. A continuación, se detalla la estructura de carpetas y archivos, así como una breve descripción de cada conjunto de ejercicios.
+Este repositorio contiene una serie de ejercicios diseñados para afianzar conocimientos en JavaScript, específicamente en el manejo de arrays y colecciones. Cada archivo `.js` contiene un conjunto de ejercicios relacionados con un tema específico y una posible solución.
 
 ## Estructura de Carpetas y Archivos
-├── arrays-y-colecciones/
-│ ├── ejercicio1.js
-│ ├── ejercicio2.js
-│ ├── ejercicio3.js
-├── que-devuelven-estos-codigos/
-│ ├── ejercicio1.js
-│ ├── ejercicio2.js
-│ ├── ejercicio3.js
-├── colecciones-de-peliculas/
-│ ├── ejercicio1.js
-│ ├── ejercicio2.js
-│ ├── ejercicio3.js
-│ ├── ejercicio4.js
-│ ├── ejercicio5.js
-├── extra-bonus/
-│ ├── array-inverso.js
-│ ├── suma-array.js
-│ └── simulacion-array-join.js
+
+├── arrays-y-colecciones.js
+├── que-devuelven-estos-codigos.js
+├── colecciones-de-peliculas.js
+├── extra-bonus.js
 └── README.md
 
-## Descripción de los Ejercicios
+## Descripción de los Archivos y Ejercicios
 
-### Arrays y Colecciones
-- **ejercicio1.js:** Practica cómo acceder a elementos específicos de un array. 2 soluciones.
-- **ejercicio2.js:** Modifica cada elemento de un array e imprime los resultados.
-- **ejercicio3.js:** Agrega y extrae elementos de un array, explorando su comportamiento. 2 soluciones.
+### 1. `arrays-y-colecciones.js`
+Este archivo contiene ejercicios que te ayudarán a afianzar el manejo de arrays en JavaScript. Los ejercicios incluyen:
+- **Ejercicio1:** Practica cómo seleccionar elementos individuales de un array.
+- **Ejercicio2:** Aprende a modificar elementos dentro de un array y a recorrerlo para imprimir cada elemento.
+- **Ejercicio3:** Explora cómo agregar nuevos elementos a un array y cómo eliminarlos.
+
+### 2. `que-devuelven-estos-codigos.js`
+Este archivo contiene ejercicios de análisis básico de código. Deberás predecir qué valor retornan ciertos fragmentos de código sin ejecutarlos. Los ejercicios incluyen:
+- **Acceso fuera del índice:** Entiende el comportamiento cuando se intenta acceder a un índice fuera del rango de un array.
+- **Acceso a elementos específicos en un array de strings:** Determina el valor que se retorna cuando accedes a un elemento específico de un array.
+- **Uso de variables en arrays:** Observa cómo las variables se comportan dentro de un array.
+
+## Instrucciones
+
+1. Clona este repositorio en tu máquina local.
+2. Navega a la carpeta del ejercicio que quieras practicar.
+3. Abre el archivo `.js` correspondiente y comienza a trabajar en los ejercicios.
+4. Puedes utilizar la consola de tu navegador o Node.js para probar los códigos y ver los resultados.
+
+¡Disfruta de los ejercicios y mejora tus habilidades en JavaScript!

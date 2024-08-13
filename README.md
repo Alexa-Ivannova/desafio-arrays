@@ -24,6 +24,13 @@ Este archivo contiene ejercicios de análisis básico de código. Deberás prede
 - **Acceso a elementos específicos en un array de strings:** Determina el valor que se retorna cuando accedes a un elemento específico de un array.
 - **Uso de variables en arrays:** Observa cómo las variables se comportan dentro de un array.
 
+### 3. `colecciones-de-peliculas.js`
+Este archivo contiene una serie de ejercicios relacionados con la manipulación de arrays que representan colecciones de películas. Los ejercicios incluyen:
+- **Creación de una colección de películas:** Define un array que almacene títulos de películas y verifica su contenido.
+- **Conversión a mayúsculas:** Implementa una función que convierte todos los títulos de las películas a mayúsculas.
+- **Combinación de arrays:** Combina dos arrays de películas en uno solo.
+- **Eliminación de un elemento específico:** Elimina un elemento específico de un array antes de combinarlo con otro.
+
 ## Instrucciones
 
 1. Clona este repositorio en tu máquina local.

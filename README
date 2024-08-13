@@ -1,0 +1,31 @@
+# Módulo de Ejercicios de JavaScript
+
+Este repositorio contiene una serie de ejercicios diseñados para afianzar conocimientos en JavaScript, en el manejo de arrays y colecciones. A continuación, se detalla la estructura de carpetas y archivos, así como una breve descripción de cada conjunto de ejercicios.
+
+## Estructura de Carpetas y Archivos
+├── arrays-y-colecciones/
+│ ├── ejercicio1.js
+│ ├── ejercicio2.js
+│ ├── ejercicio3.js
+├── que-devuelven-estos-codigos/
+│ ├── ejercicio1.js
+│ ├── ejercicio2.js
+│ ├── ejercicio3.js
+├── colecciones-de-peliculas/
+│ ├── ejercicio1.js
+│ ├── ejercicio2.js
+│ ├── ejercicio3.js
+│ ├── ejercicio4.js
+│ ├── ejercicio5.js
+├── extra-bonus/
+│ ├── array-inverso.js
+│ ├── suma-array.js
+│ └── simulacion-array-join.js
+└── README.md
+
+## Descripción de los Ejercicios
+
+### Arrays y Colecciones
+- **ejercicio1.js:** Practica cómo acceder a elementos específicos de un array. 2 soluciones.
+- **ejercicio2.js:** Modifica cada elemento de un array e imprime los resultados.
+- **ejercicio3.js:** Agrega y extrae elementos de un array, explorando su comportamiento. 2 soluciones.

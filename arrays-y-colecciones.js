@@ -12,7 +12,7 @@ const arrayA = [1 , 3, 5]
 
 const indice = 2
 const accederArray = arrayA[indice]
-console.log("El indice 2 del array [1 , 3, 5] es; " + accederArray);
+console.log("El indice" + indice + " del array [1 , 3, 5] es; " + accederArray);
 // => 5
 
 // 2). Modificar cada uno de sus elementos e imprimirlos. 

@@ -5,9 +5,13 @@ Este repositorio contiene una serie de ejercicios diseñados para afianzar conoc
 ## Estructura de Carpetas y Archivos
 
 ├── arrays-y-colecciones.js
+
 ├── que-devuelven-estos-codigos.js
+
 ├── colecciones-de-peliculas.js
+
 ├── extra-bonus.js
+
 └── README.md
 
 ## Descripción de los Archivos y Ejercicios
@@ -30,6 +34,7 @@ Este archivo contiene una serie de ejercicios relacionados con la manipulación 
 - **Conversión a mayúsculas:** Implementa una función que convierte todos los títulos de las películas a mayúsculas.
 - **Combinación de arrays:** Combina dos arrays de películas en uno solo.
 - **Eliminación de un elemento específico:** Elimina un elemento específico de un array antes de combinarlo con otro.
+- **Comparación de arrays de calificaciones:** Compara dos arrays de calificaciones para determinar si son iguales o diferentes.
 
 ## Instrucciones
 
